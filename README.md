@@ -1,2 +1,2 @@
-# Employee-Performance-Evaluation-System
+# Student registration management system
 Employee Performance Evaluation System
